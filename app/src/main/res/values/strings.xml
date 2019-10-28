@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="btn_0_val">0</string>
+    <string name="btn_1_val">1</string>
+    <string name="btn_2_val">2</string>
+    <string name="btn_3_val">3</string>
+    <string name="btn_4_val">4</string>
+    <string name="btn_5_val">5</string>
+    <string name="btn_6_val">6</string>
+    <string name="btn_7_val">7</string>
+    <string name="btn_8_val">8</string>
+    <string name="btn_9_val">9</string>
+    <string name="btn_dec_val">.</string>
+    <string name="btn_clear_value">Clear</string>
+    <string name="btn_Add_val">+</string>
+    <string name="btn_equal_val">=</string>
+    <string name="btn_sub_val">-</string>
+    <string name="btn_Mul_val">*</string>
+    <string name="btn_div_val">/</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_0" type="id" />
+    <item name="edit1" type="id" />
+    <item name="btn_Add" type="id" />
+    <item name="btn_Sub" type="id" />
+    <item name="btn_Mul" type="id" />
+    <item name="btn_Div" type="id" />
+    <item name="btn_equal" type="id" />
+</resources>
